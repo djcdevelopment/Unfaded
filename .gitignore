@@ -6,4 +6,5 @@ obj/
 .idea/
 .vscode/
 *.zip
+!Unfaded-*.zip
 *.mp4
