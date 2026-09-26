@@ -1,11 +1,11 @@
-﻿[config]
+[config]
 schemaVersion = '0.0.1'
 
 [package]
 namespace = 'djcdevelopment'
 name = 'Unfaded'
-versionNumber = '1.0.8'
-description = 'Valheim 1.0-1.0.15 death camera: remove the 9.5s blackout, track killers, free-fly, and respawn on demand.'
+versionNumber = '1.0.9'
+description = 'Valheim 1.0-1.0.16 death camera: remove the 9.5s blackout, track killers, free-fly, and respawn on demand.'
 websiteUrl = 'https://github.com/djcdevelopment/Unfaded'
 containsNsfwContent = false
 

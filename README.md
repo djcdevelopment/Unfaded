@@ -2,9 +2,9 @@
 
 > **Eliminate the tedious 9.5-second death blackout in Valheim, unlock 360° ragdoll spectator physics, killer tracking, tactical drone scouting, and take control of your respawn.**
 
-[![Valheim 1.0.15](https://img.shields.io/badge/Valheim-1.0.15%20verified-blue.svg)](#)
+[![Valheim 1.0.16](https://img.shields.io/badge/Valheim-1.0.16%20verified-blue.svg)](#)
 [![BepInEx 5](https://img.shields.io/badge/BepInEx-5.4.2202-green.svg)](#)
-[![Version](https://img.shields.io/badge/Version-1.0.8-brightgreen.svg)](#)
+[![Version](https://img.shields.io/badge/Version-1.0.9-brightgreen.svg)](#)
 [![Hardware Verified](https://img.shields.io/badge/OMEN%20Verified-0%20Errors-purple.svg)](#)
 [![Archify Diagram](https://img.shields.io/badge/Archify-Showcase%209%2F9-0891b2.svg)](https://github.com/djcdevelopment/Unfaded/blob/main/docs/unfaded-architecture.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/djcdevelopment/Unfaded/blob/main/LICENSE)
@@ -13,7 +13,7 @@
 
 ---
 
-**Compatibility:** Valheim 1.0.0-1.0.15; latest build, Harmony target, and isolated boot verification completed on 1.0.15. See the [fleet compatibility evidence](https://github.com/djcdevelopment/deepnorthtesting/blob/main/docs/compatibility/valheim-1.0.15.md).
+**Compatibility:** Valheim 1.0.0-1.0.16; latest build, Harmony target, and isolated boot verification completed on 1.0.16. See the [fleet compatibility evidence](https://github.com/djcdevelopment/deepnorthtesting/blob/main/docs/compatibility/valheim-1.0.16.md).
 
 ---
 
@@ -235,6 +235,10 @@ Verified BepInEx Chainloader Log:
 ---
 
 ## 📋 Changelog
+
+### v1.0.9 (2026-09-26)
+- Verified all death, camera, HUD, and respawn Harmony targets against Valheim 1.0.16.
+- Synchronized the DLL, project, manifest, and Thunderstore package versions.
 
 ### v1.0.8 (2026-09-20)
 - Verified all death, camera, HUD, and respawn Harmony targets against Valheim 1.0.15.

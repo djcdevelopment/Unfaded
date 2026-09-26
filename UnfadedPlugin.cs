@@ -12,7 +12,7 @@ public sealed class UnfadedPlugin : BaseUnityPlugin
 {
     public const string PluginGUID = "djc.valheim.unfaded";
     public const string PluginName = "Unfaded";
-    public const string PluginVersion = "1.0.8";
+    public const string PluginVersion = "1.0.9";
 
     public static UnfadedPlugin? Instance { get; private set; }
 
